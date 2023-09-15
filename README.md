@@ -19,8 +19,10 @@ To write a python program to perform stop and wait protocol
 
 
 ## CLIENT PROGRAM :
+~~~
 ### Developed By : Venkatesh E 
 ### Reg No : 212221230119
+~~~
  ```python
 import socket
 s=socket.socket()
